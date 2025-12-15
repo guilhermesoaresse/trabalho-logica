@@ -1,7 +1,7 @@
 # 📝 Trabalho Prático: Sistema Interativo de Gestão de Turmas
 
 ## 📅 Prazo de Entrega
-**Data:** 15/12/2025
+**Data:** 17/12/2025
 **Formato:** Entrega do arquivo JavaScript (.js) no lms cada integrante do grupo.
 
 ## 🎯 Objetivo
